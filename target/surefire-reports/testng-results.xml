@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="60" passed="60">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="119" started-at="2019-06-06T18:26:00Z" finished-at="2019-06-06T18:26:00Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="119" started-at="2019-06-06T18:26:00Z" finished-at="2019-06-06T18:26:00Z">
+      <class name="cla.parstr.ParallelStreamFjpTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="6" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="40" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="3" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executedInAnotherPool_sanityCheck1" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executedInAnotherPool_sanityCheck1 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executedInAnotherPool_sanityCheck1 status=SUCCESS method=ParallelStreamFjpTest.executedInAnotherPool_sanityCheck1()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="2" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="3" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck2 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck2()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck2" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck2 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInAnotherPool_sanityCheck3" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInAnotherPool_sanityCheck3 -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInAnotherPool_sanityCheck3 status=SUCCESS method=ParallelStreamFjpTest.executesInAnotherPool_sanityCheck3()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="1" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="before()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="before" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="executesInCommonPool_sanityCheck" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executesInCommonPool_sanityCheck -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813]" name="after" is-config="true" duration-ms="0" started-at="2019-06-06T13:26:00Z" finished-at="2019-06-06T13:26:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=executesInCommonPool_sanityCheck status=SUCCESS method=ParallelStreamFjpTest.executesInCommonPool_sanityCheck()[pri:0, instance:cla.parstr.ParallelStreamFjpTest@64c64813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- cla.parstr.ParallelStreamFjpTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
